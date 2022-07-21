@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PokemonImage /> renders correctly 1`] = `
+<div
+  style={
+    Object {
+      "padding": 20,
+    }
+  }
+>
+  <img
+    alt="bulbasaur"
+    src="/pokemons/001-bulbasaur.svg"
+    style={
+      Object {
+        "height": 100,
+        "width": 100,
+      }
+    }
+  />
+</div>
+`;
